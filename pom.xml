@@ -81,6 +81,7 @@
 				<version>2.4</version>
 				<configuration>
 					<packagingExcludes>WEB-INF/lib/guava-15.0.jar</packagingExcludes>
+					<outputDirectory>./</outputDirectory>
 				</configuration>
 			</plugin>
 					
